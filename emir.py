@@ -5,5 +5,5 @@ while True:
         num -= 7
         print(a, " - 7 = ", num)
     elif num < 7:
-        print("Я гуль!")
+        
             
